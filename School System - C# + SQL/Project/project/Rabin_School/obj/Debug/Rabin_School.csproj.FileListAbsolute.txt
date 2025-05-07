@@ -1,0 +1,199 @@
+C:\Users\calpd\source\repos\Rabin_School\Rabin_School\obj\Debug\Rabin_School.csproj.AssemblyReference.cache
+C:\Users\calpd\source\repos\Rabin_School\Rabin_School\obj\Debug\Rabin_School.Properties.Resources.resources
+C:\Users\calpd\source\repos\Rabin_School\Rabin_School\obj\Debug\Rabin_School.csproj.GenerateResource.cache
+C:\Users\calpd\source\repos\Rabin_School\Rabin_School\obj\Debug\Rabin_School.csproj.CoreCompileInputs.cache
+C:\Users\calpd\source\repos\Rabin_School\Rabin_School\bin\Debug\Rabin_School.exe.config
+C:\Users\calpd\source\repos\Rabin_School\Rabin_School\bin\Debug\Rabin_School.exe
+C:\Users\calpd\source\repos\Rabin_School\Rabin_School\bin\Debug\Rabin_School.pdb
+C:\Users\calpd\source\repos\Rabin_School\Rabin_School\obj\Debug\Rabin_School.exe
+C:\Users\calpd\source\repos\Rabin_School\Rabin_School\obj\Debug\Rabin_School.pdb
+C:\Users\calpd\source\repos\Rabin_School\Rabin_School\obj\Debug\Rabin_School.createEmployee.resources
+C:\Users\calpd\source\repos\Rabin_School\Rabin_School\obj\Debug\Rabin_School.main_form.resources
+C:\Users\gilkat\Downloads\project-20250105T144335Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe.config
+C:\Users\gilkat\Downloads\project-20250105T144335Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe
+C:\Users\gilkat\Downloads\project-20250105T144335Z-001\project\Rabin_School\bin\Debug\Rabin_School.pdb
+C:\Users\gilkat\Downloads\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.AssemblyReference.cache
+C:\Users\gilkat\Downloads\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.createEmployee.resources
+C:\Users\gilkat\Downloads\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_form.resources
+C:\Users\gilkat\Downloads\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.Properties.Resources.resources
+C:\Users\gilkat\Downloads\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.GenerateResource.cache
+C:\Users\gilkat\Downloads\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.CoreCompileInputs.cache
+C:\Users\gilkat\Downloads\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.exe
+C:\Users\gilkat\Downloads\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.pdb
+C:\Users\gilkat\Downloads\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.login.resources
+C:\Users\gilkat\Downloads\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_secretary.resources
+C:\Users\gilkat\Downloads\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.student_voucher.resources
+C:\Users\gilkat\Downloads\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.all_students_voucher.resources
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe.config
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\bin\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.AssemblyReference.cache
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.all_students_voucher.resources
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.createEmployee.resources
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.login.resources
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_form.resources
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_secretary.resources
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.Properties.Resources.resources
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.student_voucher.resources
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.GenerateResource.cache
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.CoreCompileInputs.cache
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe.config
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\bin\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.AssemblyReference.cache
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.all_students_voucher.resources
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.createEmployee.resources
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.login.resources
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_form.resources
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_secretary.resources
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.Properties.Resources.resources
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.student_voucher.resources
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.GenerateResource.cache
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.CoreCompileInputs.cache
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\project-20250105T144335Z-001-20250106T113204Z-001-20250106T123338Z-001\project-20250105T144335Z-001-20250106T113204Z-001\project-20250105T144335Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_student.resources
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe.config
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\bin\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.AssemblyReference.cache
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\obj\Debug\Rabin_School.all_students_voucher.resources
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\obj\Debug\Rabin_School.createEmployee.resources
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\obj\Debug\Rabin_School.login.resources
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_form.resources
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_student.resources
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\obj\Debug\Rabin_School.Properties.Resources.resources
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\obj\Debug\Rabin_School.student_voucher.resources
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.GenerateResource.cache
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.CoreCompileInputs.cache
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\obj\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\obj\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\obj\Debug\Rabin_School.voucher_secretary.resources
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\obj\Debug\Rabin_School.show_activities_to_sign.resources
+C:\Users\calpd\Downloads\project-20250108T063642Z-001\project\Rabin_School\obj\Debug\Rabin_School.sign_activity.resources
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe.config
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\bin\Debug\Rabin_School.pdb
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.AssemblyReference.cache
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\obj\Debug\Rabin_School.all_students_voucher.resources
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\obj\Debug\Rabin_School.createEmployee.resources
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\obj\Debug\Rabin_School.login.resources
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_form.resources
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\obj\Debug\Rabin_School.sign_activity.resources
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\obj\Debug\Rabin_School.voucher_secretary.resources
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_student.resources
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\obj\Debug\Rabin_School.Properties.Resources.resources
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\obj\Debug\Rabin_School.student_voucher.resources
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.GenerateResource.cache
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.CoreCompileInputs.cache
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\obj\Debug\Rabin_School.exe
+C:\Users\kahlonh\Downloads\project-20250108T110723Z-001\project\Rabin_School\obj\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe.config
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\bin\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.AssemblyReference.cache
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.all_students_voucher.resources
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.login.resources
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_form.resources
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.sign_activity.resources
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.voucher_secretary.resources
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_student.resources
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.Properties.Resources.resources
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.student_voucher.resources
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.GenerateResource.cache
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.CoreCompileInputs.cache
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_secretary.resources
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.manage_employee.resources
+C:\Users\calpd\Downloads\project-20250109T061021Z-001\project\Rabin_School\obj\Debug\Rabin_School.update_hoom_classes.resources
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe.config
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\bin\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.AssemblyReference.cache
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.all_students_voucher.resources
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.login.resources
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_form.resources
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_secretary.resources
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.manage_employee.resources
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.sign_activity.resources
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.update_hoom_classes.resources
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.voucher_secretary.resources
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_student.resources
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.Properties.Resources.resources
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.student_voucher.resources
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.GenerateResource.cache
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.CoreCompileInputs.cache
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\project-20250112T162735Z-001\project\Rabin_School\obj\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe.config
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\bin\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.AssemblyReference.cache
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.all_students_voucher.resources
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.login.resources
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_form.resources
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_secretary.resources
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.manage_employee.resources
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.sign_activity.resources
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.update_hoom_classes.resources
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.voucher_secretary.resources
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_student.resources
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.Properties.Resources.resources
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.student_voucher.resources
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.GenerateResource.cache
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.CoreCompileInputs.cache
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.choose_students.resources
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_teacher.resources
+C:\Users\calpd\Downloads\project-20250112T182229Z-001\project\Rabin_School\obj\Debug\Rabin_School.publish_assignment.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe.config
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\bin\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\bin\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.AssemblyReference.cache
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.all_students_voucher.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.assignment_to_submit.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.choose_students.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.login.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_form.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_secretary.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_teacher.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.manage_employee.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.publish_assignment.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.sign_activity.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.update_hoom_classes.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.voucher_secretary.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.main_student.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.Properties.Resources.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.student_voucher.resources
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.GenerateResource.cache
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.csproj.CoreCompileInputs.cache
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\project-20250116T064418Z-001\project\Rabin_School\obj\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\bin\Debug\Rabin_School.exe.config
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\bin\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\bin\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.csproj.AssemblyReference.cache
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.all_students_voucher.resources
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.assignment_to_submit.resources
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.choose_students.resources
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.login.resources
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.main_secretary.resources
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.main_teacher.resources
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.manage_employee.resources
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.publish_assignment.resources
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.sign_activity.resources
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.update_hoom_classes.resources
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.voucher_secretary.resources
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.main_student.resources
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.Properties.Resources.resources
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.student_voucher.resources
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.csproj.GenerateResource.cache
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.csproj.CoreCompileInputs.cache
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.exe
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.pdb
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.createEmployee.resources
+C:\Users\calpd\Downloads\2025-20250119T065540Z-001\פרוייקט מעודכן ל16-1-2025\project\Rabin_School\obj\Debug\Rabin_School.read_employee.resources

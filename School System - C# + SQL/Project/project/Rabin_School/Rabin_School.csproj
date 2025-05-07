@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8336AE50-A148-4A82-BFA9-B1980A5D5F0C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Rabin_School</RootNamespace>
+    <AssemblyName>Rabin_School</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="all_students_voucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="all_students_voucher.Designer.cs">
+      <DependentUpon>all_students_voucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ActivityTypes.cs" />
+    <Compile Include="Assignment.cs" />
+    <Compile Include="assignment_to_submit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="assignment_to_submit.Designer.cs">
+      <DependentUpon>assignment_to_submit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConsentForm.cs" />
+    <Compile Include="createEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="createEmployee.Designer.cs">
+      <DependentUpon>createEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExternalActivity.cs" />
+    <Compile Include="choose_students.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="choose_students.Designer.cs">
+      <DependentUpon>choose_students.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main_secretary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_secretary.Designer.cs">
+      <DependentUpon>main_secretary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main_teacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_teacher.Designer.cs">
+      <DependentUpon>main_teacher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="manage_employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="manage_employee.Designer.cs">
+      <DependentUpon>manage_employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="publish_assignment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="publish_assignment.Designer.cs">
+      <DependentUpon>publish_assignment.cs</DependentUpon>
+    </Compile>
+    <Compile Include="read_employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="read_employee.Designer.cs">
+      <DependentUpon>read_employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Resource.cs" />
+    <Compile Include="ResourceTypes.cs" />
+    <Compile Include="sign_activity.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sign_activity.Designer.cs">
+      <DependentUpon>sign_activity.cs</DependentUpon>
+    </Compile>
+    <Compile Include="main_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="main_student.Designer.cs">
+      <DependentUpon>main_student.cs</DependentUpon>
+    </Compile>
+    <Compile Include="student_voucher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="student_voucher.Designer.cs">
+      <DependentUpon>student_voucher.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SubmissionBox.cs" />
+    <Compile Include="SubmissionBoxStatuses.cs" />
+    <Compile Include="update_hoom_classes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="update_hoom_classes.Designer.cs">
+      <DependentUpon>update_hoom_classes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="voucher_secretary.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="voucher_secretary.Designer.cs">
+      <DependentUpon>voucher_secretary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VoucherTypes.cs" />
+    <Compile Include="Voucher.cs" />
+    <Compile Include="ClassRoom.cs" />
+    <Compile Include="Student.cs" />
+    <Compile Include="SQL_CON.cs" />
+    <Compile Include="EmployeeRoles.cs" />
+    <Compile Include="EmployeeStatuses.cs" />
+    <Compile Include="GenderTypes.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="all_students_voucher.resx">
+      <DependentUpon>all_students_voucher.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="assignment_to_submit.resx">
+      <DependentUpon>assignment_to_submit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="choose_students.resx">
+      <DependentUpon>choose_students.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="createEmployee.resx">
+      <DependentUpon>createEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_secretary.resx">
+      <DependentUpon>main_secretary.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_teacher.resx">
+      <DependentUpon>main_teacher.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="manage_employee.resx">
+      <DependentUpon>manage_employee.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="publish_assignment.resx">
+      <DependentUpon>publish_assignment.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="read_employee.resx">
+      <DependentUpon>read_employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sign_activity.resx">
+      <DependentUpon>sign_activity.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="update_hoom_classes.resx">
+      <DependentUpon>update_hoom_classes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="voucher_secretary.resx">
+      <DependentUpon>voucher_secretary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="main_student.resx">
+      <DependentUpon>main_student.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="student_voucher.resx">
+      <DependentUpon>student_voucher.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\רקע בית ספר.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGIN BUTTON.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\כותרת מסך התחברות.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הפק שובר כפתור.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\חזור.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\חזור חדש.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\אשר.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הוסף עובד למערכת.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\התנתק.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\כפתור הפקת שוברים.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\כפתור ניהול עובדים.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הצג פעילויות לחתימה.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הצג מטלות להגשה.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\פרסום מטלה חדשה.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\עדכון שיבוץ כיתות למורה.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\יצירת עובד חדש.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\צפייה בעובד קיים.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\המשך לבחירת תלמידים.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\לחץ לבניית מטלה.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\עדכון פרטי עובד.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\מחק עובד.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\לחץ לאישור יציאה.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\עדכן.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הפקת שובר לכלל התלמידים.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\הפקת שובר לתלמיד יחיד.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
