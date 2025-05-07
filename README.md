@@ -11,15 +11,14 @@ Each project includes the source files, relevant documentation, and implementati
 ### 1. Hotel Simulation Project - Python
 - **Description:** A simulation system for managing hotel operations using Python.  
 - **Details:** This project includes a PDF file with a link to the Colab environment where the simulation can be run.  
-- **Contents:** Python files implementing room management, check-in, and check-out functionalities.
 
 ---
 
-### 2. Product & Supplier Metrics Analysis - SQL + Power BI
-- **Description:** Data analysis project focused on product and supplier metrics using SQL.  
+### 2. Product & Supplier Metrics Analysis - SQL + Power BI (International Flower Delivery Site)
+- **Description:** Data analysis project focused on product and supplier metrics for an international flower delivery website.  
 - **Details:** Power BI dashboards are included to visualize key metrics.  
   The project is still in progress and will later include additional visualizations using Tableau.  
-- **Contents:** SQL queries with advanced analytics, Power BI reports.
+- **Contents:** SQL queries with advanced analytics, Power BI reports that present data from various countries and suppliers worldwide.
 
 ---
 
@@ -42,7 +41,7 @@ Each project includes the source files, relevant documentation, and implementati
 
 ---
 
-### 6. Election Simulation - Java ( using Threads)
+### 6. Election Simulation - Java (Using Threads)
 - **Description:** A multi-threaded Java simulation that mimics a local election process.  
 - **Contents:** Java files implementing the election logic, queue management, and vote counting.
 
@@ -60,6 +59,6 @@ Each project includes the source files, relevant documentation, and implementati
 ---
 
 ## ✅ **Installation and Usage**
-   Clone the repository:
-   ```bash
-   git clone https://github.com/Gil-Katzir/Portfolio.git
+Clone the repository:
+```bash
+git clone https://github.com/Gil-Katzir/Portfolio.git
